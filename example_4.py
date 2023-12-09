@@ -30,4 +30,4 @@ for x in range(0, 1951, 150):
         with needle.running_stitch(25):
             random_flower(needle, 50, n)
 
-needle.save("field_schotter.png")
+needle.save("field_schotter.jef")
